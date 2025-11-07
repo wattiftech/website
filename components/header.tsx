@@ -57,7 +57,7 @@ export function Header() {
 
           <div className="hidden md:flex items-center">
             <Button size="sm" className="bg-accent hover:bg-accent/90 text-accent-foreground" asChild>
-              <a href="#start-free-monitoring">Start 30 Day Free Monitoring</a>
+              <a href="#start-free-monitoring">Start 30-Day Free Monitoring</a>
             </Button>
           </div>
 
@@ -92,7 +92,7 @@ export function Header() {
             </a>
             <div className="pt-4">
               <Button className="w-full bg-accent hover:bg-accent/90 text-accent-foreground" asChild>
-                <a href="#start-free-monitoring">Start 30 Day Free Monitoring</a>
+                <a href="#start-free-monitoring">Start 30-Day Free Monitoring</a>
               </Button>
             </div>
           </div>

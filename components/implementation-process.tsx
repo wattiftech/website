@@ -278,7 +278,7 @@ export function ImplementationProcess() {
                   className="font-semibold text-sm sm:text-base bg-transparent w-full sm:w-auto"
                   asChild
                 >
-                  <a href="#start-free-monitoring">Start 30 Day Free Monitoring</a>
+                  <a href="#start-free-monitoring">Start 30-Day Free Monitoring</a>
                 </Button>
               </div>
             </div>
