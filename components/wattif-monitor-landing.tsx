@@ -155,7 +155,7 @@ export function WattifMonitorLanding() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <div className="inline-block px-4 py-2 bg-[#00D9C0]/20 backdrop-blur-sm text-white rounded-full text-sm font-medium mb-6 border border-[#00D9C0]/40">
-              FREE 30-DAY TRIAL
+              Unlock Your Energy Insights Today
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 text-balance text-white">
               Free Energy Monitoring for Your Commercial Building
