@@ -141,7 +141,7 @@ export function HeroSection() {
                   <div className="text-xs sm:text-sm text-muted-foreground">New Revenue</div>
                 </div>
                 <div className="sm:col-span-2 flex flex-col gap-1 bg-primary/5 border border-primary/20 rounded-lg px-4 py-3 sm:px-5 sm:py-4">
-                  <div className="text-lg sm:text-xl lg:text-2xl font-bold text-primary">Activation in 6 Weeks</div>
+                  <div className="text-lg sm:text-xl lg:text-2xl font-bold text-primary">Activation in 8 Weeks</div>
                   <div className="text-xs sm:text-sm text-muted-foreground">Simply Connect to Your BMS</div>
                 </div>
               </div>

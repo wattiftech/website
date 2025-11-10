@@ -46,7 +46,7 @@ export function BenefitsSection() {
     {
       tag: "SPEED",
       icon: Zap,
-      title: "Activation in 6 Weeks",
+      title: "Activation in 8 Weeks",
       description:
         "Simply connect to your BMS - Fast time to value with immediate ROI (timeline varies by participation route)",
       tagColor: "bg-chart-5/10 text-chart-5 border-chart-5/20",
@@ -92,7 +92,7 @@ export function BenefitsSection() {
     {
       tag: "SPEED",
       icon: Zap,
-      title: "Activation in 6 Weeks",
+      title: "Activation in 8 Weeks",
       description: "Simply connect to your BMS - Quick implementation via VPP aggregation or direct AEMO registration",
       tagColor: "bg-chart-5/10 text-chart-5 border-chart-5/20",
     },

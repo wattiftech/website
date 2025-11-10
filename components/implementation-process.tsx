@@ -114,7 +114,7 @@ export function ImplementationProcess() {
   ]
 
   const benefits = [
-    "Activation in 6 weeks - Simply connect to your BMS",
+    "Activation in 8 weeks - Simply connect to your BMS",
     "No operational disruption during installation",
     "Guaranteed operational compliance",
     "24/7 support and monitoring",
@@ -166,7 +166,7 @@ export function ImplementationProcess() {
                             <div className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-accent to-orange-500 bg-clip-text text-transparent">
                               {String(step.number).padStart(2, "0")}
                             </div>
-                            <div className="text-xs sm:text-sm font-semibold text-accent px-2 sm:px-3 py-1 bg-accent/10 rounded-full group-hover:bg-accent/20 transition-colors duration-300">
+                            <div className="text-xs sm:text-sm font-semibold text-accent px-2 sm:px-3 py-1 bg-accent/10 rounded-full group-hover:bg-accent/20 transition-colors duration-300 invisible lg:flex hidden">
                               {step.timeline}
                             </div>
                           </div>
@@ -261,14 +261,14 @@ export function ImplementationProcess() {
                 ))}
               </div>
 
-              <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
+              <div className="flex flex-col flex-wrap sm:flex-row gap-3 sm:gap-4 justify-center">
                 <Button
                   size="lg"
                   className="bg-accent hover:bg-accent/90 text-accent-foreground font-semibold text-sm sm:text-base group w-full sm:w-auto"
                   asChild
                 >
                   <a href="#calculator" className="flex items-center justify-center">
-                    <span className="text-center">Calculate Your Building's Revenue Potential</span>
+                    <span className="text-left whitespace-break-spaces leading-[1.3]">Calculate Your Building's Revenue Potential</span>
                     <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5 group-hover:translate-x-1 transition-transform flex-shrink-0" />
                   </a>
                 </Button>
