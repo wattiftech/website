@@ -6,7 +6,7 @@ import Link from "next/link"
 export const metadata = {
   title: "Wattif Monitor - Free Energy Monitoring for Commercial Buildings",
   description:
-    "Free 30-day energy monitoring trial for commercial buildings in Singapore and Australia. Track consumption, maintain compliance, and discover your grid revenue potential with Wattif Monitor.",
+    "30-day free energy monitoring trial for commercial buildings in Singapore and Australia. Track consumption, maintain compliance, and discover your grid revenue potential with Wattif Monitor.",
 }
 
 export default function WattifMonitorPage() {
