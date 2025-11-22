@@ -69,7 +69,7 @@ export function HeroSection() {
                 {" and "}
                 <span className="inline-block animate-fade-cycle-how font-semibold">how</span>
                 {
-                  " your building uses power to reduce peak charges, optimize storage, and monetize flexibility through grid programs."
+                  " your building uses power to reduce peak charges, optimize self-consumption, and monetize flexibility through grid programs."
                 }
               </p>
             </div>
